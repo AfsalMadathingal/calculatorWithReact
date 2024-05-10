@@ -144,7 +144,6 @@ function App() {
     {}
   );
 
-  // disptach({type:ACTION.ADD_DIGIT , payload : {digit:1}})
 
   return (
     <div className={styles.calculatorgrid}>
